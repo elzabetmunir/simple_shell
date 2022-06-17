@@ -1,2 +1,2 @@
 # Simple Shell
-Author: Esayad Dibekulu && Abdu Akmel | May 12 2022
+Author: Elsabet Munir && Zekariyas | May 12 2022
